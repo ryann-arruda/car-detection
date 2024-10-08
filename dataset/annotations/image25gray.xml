@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image25gray.PNG</filename>
+	<path>C:\Users\VISION\Desktop\TPDI_carros\car-detection\dataset\images\image25gray.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>291</width>
+		<height>213</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>4</ymin>
+			<xmax>238</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

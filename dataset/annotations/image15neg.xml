@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image15neg.PNG</filename>
+	<path>C:\Users\VISION\Desktop\TPDI_carros\car-detection\dataset\images\image15neg.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>356</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>89</ymin>
+			<xmax>329</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

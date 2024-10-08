@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image84.PNG</filename>
+	<path>C:\Users\VISION\Desktop\TPDI_carros\car-detection\dataset\images\image84.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>52</ymin>
+			<xmax>343</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

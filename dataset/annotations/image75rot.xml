@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image75rot.PNG</filename>
+	<path>C:\Users\VISION\Desktop\TPDI_carros\car-detection\dataset\images\image75rot.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>107</ymin>
+			<xmax>410</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

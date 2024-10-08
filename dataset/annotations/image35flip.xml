@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image35flip.PNG</filename>
+	<path>C:\Users\VISION\Desktop\TPDI_carros\car-detection\dataset\images\image35flip.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>38</ymin>
+			<xmax>146</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
