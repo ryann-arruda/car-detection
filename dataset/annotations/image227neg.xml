@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>image227neg.png</filename>
-	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image227neg.png</path>
+	<path>C:\Users\Alexa\OneDrive\Área de Trabalho\TPDI\car-detection\dataset\images\image227neg.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
+			<xmin>145</xmin>
 			<ymin>147</ymin>
-			<xmax>670</xmax>
+			<xmax>669</xmax>
 			<ymax>503</ymax>
 		</bndbox>
 	</object>
