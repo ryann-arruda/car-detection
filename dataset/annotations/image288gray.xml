@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image288gray.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image288gray.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>622</width>
+		<height>418</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>97</ymin>
+			<xmax>569</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

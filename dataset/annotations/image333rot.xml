@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image333rot.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image333rot.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>813</width>
+		<height>813</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>186</ymin>
+			<xmax>637</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

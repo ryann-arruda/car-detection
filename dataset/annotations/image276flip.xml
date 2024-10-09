@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image276flip.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image276flip.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>40</ymin>
+			<xmax>482</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

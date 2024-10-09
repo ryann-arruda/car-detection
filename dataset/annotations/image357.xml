@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image357.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image357.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>531</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>81</ymin>
+			<xmax>468</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

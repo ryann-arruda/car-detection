@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image333neg.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image333neg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>764</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>56</ymin>
+			<xmax>649</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

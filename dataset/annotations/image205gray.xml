@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image205gray.png</filename>
+	<path>C:\Users\Ryann\Desktop\Topicos em Processamento Digital de Images\Projeto\car-detection\dataset\images\image205gray.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>527</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>114</ymin>
+			<xmax>611</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
