@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image125.PNG</filename>
+	<path>C:\Users\Alexa\OneDrive\Área de Trabalho\TPDI\car-detection\dataset\images\image125.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>112</ymin>
+			<xmax>429</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
