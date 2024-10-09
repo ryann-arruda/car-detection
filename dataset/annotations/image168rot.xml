@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image168rot.PNG</filename>
+	<path>C:\Users\Alexa\OneDrive\Área de Trabalho\TPDI\car-detection\dataset\images\image168rot.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>141</ymin>
+			<xmax>258</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

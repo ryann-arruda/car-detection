@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image171flip.PNG</filename>
+	<path>C:\Users\Alexa\OneDrive\Área de Trabalho\TPDI\car-detection\dataset\images\image171flip.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>441</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>88</ymin>
+			<xmax>380</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
