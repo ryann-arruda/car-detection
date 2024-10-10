@@ -28,7 +28,7 @@ The annotations were made using the LabelImg tool in VOC format, which can be se
 
 #### Requirements for Annotation
 
-Requirements for annotating images are available in the requirements folder: 
+Requirements for annotating images are available in the requirements folder: [requirements](https://github.com/ryann-arruda/car-detection/tree/main/requirements)
 
 To install the requirements, you need to run the following command.
 ```bash
