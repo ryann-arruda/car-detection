@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image425flip.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image425flip.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>16</ymin>
+			<xmax>396</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

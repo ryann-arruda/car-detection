@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image598neg.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image598neg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>25</ymin>
+			<xmax>808</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

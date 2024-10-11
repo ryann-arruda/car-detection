@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image572rot.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image572rot.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>115</ymin>
+			<xmax>410</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

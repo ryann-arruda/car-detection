@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image402neg.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image402neg.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>27</ymin>
+			<xmax>485</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

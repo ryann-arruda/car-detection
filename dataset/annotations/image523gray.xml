@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image523gray.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image523gray.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>265</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>5</ymin>
+			<xmax>479</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

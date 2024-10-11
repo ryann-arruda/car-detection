@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image412.png</filename>
+	<path>C:\Users\flore\car-detection\dataset\images\image412.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>71</ymin>
+			<xmax>266</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
