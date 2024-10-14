@@ -63,6 +63,31 @@ The initial two cells of the **Single Shot Multibox Detector** section before **
 
 In order to see the result of MOG2 all cells in the **MOG2** section must be executed.
 
+## Results
+
+Below, we present the results for the **SSD** network. The first two results are satisfactory, while the following two display errors.
+
+![frame40](https://github.com/user-attachments/assets/24da08c8-6458-4636-b9b8-5f8dee56b1f6)
+
+![frame48](https://github.com/user-attachments/assets/192aa3e5-5657-47c4-8330-ef773a9f1433)
+
+
+![frame126](https://github.com/user-attachments/assets/d20a4f43-0933-4f54-9f5c-d1493591f8e9)
+
+![frame71](https://github.com/user-attachments/assets/575f7fb6-6d12-44e1-95ae-87a0e35b79bc)
+
+Below, we present the results for the **MOG2** network. The first two results are satisfactory, while the following two display errors.
+
+![frame36](https://github.com/user-attachments/assets/b75a0e3a-47b0-4dcb-9738-f73c64c2bc00)
+
+![frame40](https://github.com/user-attachments/assets/d4c2e2a6-561c-4ce2-8bcc-de99830a5b58)
+
+
+
+![frame135](https://github.com/user-attachments/assets/8386c06a-ce75-4401-b7cc-15bda879ecba)
+
+![frame48](https://github.com/user-attachments/assets/d4806fb2-2a8e-4507-8d22-8b739fcc926d)
+
 ## Authors
 
 * Alexandre Bezerra ([Alexandreprog](https://github.com/Alexandreprog))
