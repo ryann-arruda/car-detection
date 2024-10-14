@@ -35,6 +35,34 @@ To install the requirements, you need to run the following command.
 pip install -r "<Path to requirements file for annotation>"
 ```
 
+### Dataset for Testing and Evaluation
+
+Furthermore, in order to verify the network performance with real data and adjust the variables used by the **MOG2** algorithm, videos were captured at different times of the day (morning, afternoon and evening) in the city of João Pessoa (PB - Brazil).
+
+These videos were captured using mobile devices and have an average duration of 5 seconds, so that their processing does not take too long. Furthermore, despite their short duration, they present a wide variety of vehicles and movement.
+
+## How to Run the Code
+
+### Requirements to Run the Code
+
+Initially, to run the code it is necessary to install the dependencies it uses. Therefore, the following command should be used.
+
+```bash
+pip install -r "<Path to requirements file to run code>"
+```
+
+The requirements to run the code are available in the requirements folder: [requirements](https://github.com/ryann-arruda/car-detection/tree/main/requirements)
+
+### Run the Code
+
+After all the necessary dependencies have been installed, the code that should be executed is [main.ipynb](https://github.com/ryann-arruda/car-detection/blob/main/main.ipynb).
+
+However, it is important to note that only the desired cells should be executed. In the repository, there is already a file with the weights of the network previously trained by the authors, called **checkpoint_ssd300.pth.tar**. Therefore, if you do not wish to train it again, only the cell from the **Detection** section should be executed for the neural network.
+
+The initial two cells of the **Single Shot Multibox Detector** section before **Training** must be run regardless of what will be run on the model (training, evaluation, or detection).
+
+In order to see the result of MOG2 all cells in the **MOG2** section must be executed.
+
 ## Authors
 
 * Alexandre Bezerra ([Alexandreprog](https://github.com/Alexandreprog))
